@@ -1,0 +1,297 @@
+Cmp-Mod V01 Created by Cvpcb (after 2015-mar-04 BZR unknown)-product   date = 2015年05月07日木曜日 19:36:24
+
+BeginCmp
+TimeStamp = /551F2D5A;
+Reference = C1;
+ValeurCmp = 1uF;
+IdModule  = SMD_Packages:SMD-0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /551F263B;
+Reference = C2;
+ValeurCmp = 1uF;
+IdModule  = SMD_Packages:SMD-0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /551DB1D9;
+Reference = C3;
+ValeurCmp = 18pF;
+IdModule  = SMD_Packages:SMD-0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /551DB1DA;
+Reference = C4;
+ValeurCmp = 18pF;
+IdModule  = SMD_Packages:SMD-0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /551F87E6;
+Reference = C5;
+ValeurCmp = 27pF;
+IdModule  = SMD_Packages:SMD-0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /55203295;
+Reference = C6;
+ValeurCmp = 1uF;
+IdModule  = SMD_Packages:SMD-0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /551F8852;
+Reference = C7;
+ValeurCmp = 27pF;
+IdModule  = SMD_Packages:SMD-0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /551E6F81;
+Reference = C8;
+ValeurCmp = 1uF;
+IdModule  = SMD_Packages:SMD-0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /551DB1C1;
+Reference = C9;
+ValeurCmp = 0.1uF;
+IdModule  = SMD_Packages:SMD-0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /551DB1C2;
+Reference = C10;
+ValeurCmp = 0.01uF;
+IdModule  = SMD_Packages:SMD-0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /551DB1C5;
+Reference = C11;
+ValeurCmp = 0.1uF;
+IdModule  = SMD_Packages:SMD-0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /551DB1DC;
+Reference = C12;
+ValeurCmp = 0.1uF;
+IdModule  = SMD_Packages:SMD-0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /551DB1C6;
+Reference = C13;
+ValeurCmp = 0.01uF;
+IdModule  = SMD_Packages:SMD-0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /551DB1DD;
+Reference = C14;
+ValeurCmp = 0.01uF;
+IdModule  = SMD_Packages:SMD-0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /551DB1C9;
+Reference = C15;
+ValeurCmp = 0.1uF;
+IdModule  = SMD_Packages:SMD-0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /551DB1CA;
+Reference = C16;
+ValeurCmp = 0.01uF;
+IdModule  = SMD_Packages:SMD-0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /551DB1E0;
+Reference = C17;
+ValeurCmp = 1uF;
+IdModule  = SMD_Packages:SMD-0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /551DB1CF;
+Reference = C18;
+ValeurCmp = 0.1uF;
+IdModule  = SMD_Packages:SMD-0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /551DB1C7;
+Reference = C19;
+ValeurCmp = 0.1uF;
+IdModule  = SMD_Packages:SMD-0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /551DB1C8;
+Reference = C20;
+ValeurCmp = 0.01uF;
+IdModule  = SMD_Packages:SMD-0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /551E878B;
+Reference = CON1;
+ValeurCmp = MJ-179P;
+IdModule  = Connect:DCJack_MJ-179P;
+EndCmp
+
+BeginCmp
+TimeStamp = /551EE3EE/551ED630;
+Reference = CON2;
+ValeurCmp = HIROSE ZX62R-B-5P;
+IdModule  = kicad-library:Hirose-microUSB-ZX62R-B-5P;
+EndCmp
+
+BeginCmp
+TimeStamp = /551F11C0;
+Reference = D1;
+ValeurCmp = PMEG2010ER,115;
+IdModule  = Diode:PMEG2010ER,115;
+EndCmp
+
+BeginCmp
+TimeStamp = /552C425E;
+Reference = D2;
+ValeurCmp = PMEG2010ER,115;
+IdModule  = Diode:PMEG2010ER,115;
+EndCmp
+
+BeginCmp
+TimeStamp = /551F5EC1;
+Reference = D3;
+ValeurCmp = PMEG2010ER,115;
+IdModule  = Diode:PMEG2010ER,115;
+EndCmp
+
+BeginCmp
+TimeStamp = /551FDEEF;
+Reference = D4;
+ValeurCmp = PMEG2010ER,115;
+IdModule  = Diode:PMEG2010ER,115;
+EndCmp
+
+BeginCmp
+TimeStamp = /5520288A;
+Reference = DCU1;
+ValeurCmp = AZ1117E-5.0V;
+IdModule  = SMD_Packages:SOT-223;
+EndCmp
+
+BeginCmp
+TimeStamp = /55202ACE;
+Reference = DCU2;
+ValeurCmp = AZ1117E-3.3V;
+IdModule  = SMD_Packages:SOT-223;
+EndCmp
+
+BeginCmp
+TimeStamp = /551ED1C2;
+Reference = FB1;
+ValeurCmp = R;
+IdModule  = SMD_Packages:SMD-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /551F2954;
+Reference = JP1;
+ValeurCmp = JUMPER3;
+IdModule  = BoardJumper:SJ-3Pin;
+EndCmp
+
+BeginCmp
+TimeStamp = /551ECAE9;
+Reference = JP3;
+ValeurCmp = JUMPER3;
+IdModule  = BoardJumper:SJ-3Pin;
+EndCmp
+
+BeginCmp
+TimeStamp = /554A7193;
+Reference = JP4;
+ValeurCmp = JUMPER3;
+IdModule  = BoardJumper:SJ-3Pin;
+EndCmp
+
+BeginCmp
+TimeStamp = /551EE3EE/551EE576;
+Reference = OPT1;
+ValeurCmp = Arduino-Shiled2(11x)Inside;
+IdModule  = Arduino_Shiled:Arduino-Shield-Inside-Outline;
+EndCmp
+
+BeginCmp
+TimeStamp = /551EE3EE/551EE547;
+Reference = OPT2;
+ValeurCmp = Arduino-Shiled;
+IdModule  = Arduino_Shiled:Arduino-Shield-Normal-Outline;
+EndCmp
+
+BeginCmp
+TimeStamp = /551DFF2B;
+Reference = P1;
+ValeurCmp = CONN_02X05;
+IdModule  = Pin_Headers:JTAG-Half-2x5;
+EndCmp
+
+BeginCmp
+TimeStamp = /551EA146;
+Reference = P2;
+ValeurCmp = CONN_01X06;
+IdModule  = Pin_Headers:Pin_Header_Angled_1x06;
+EndCmp
+
+BeginCmp
+TimeStamp = /551E549A;
+Reference = R3;
+ValeurCmp = 100k;
+IdModule  = SMD_Packages:SMD-0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /551E4FD0;
+Reference = SW1;
+ValeurCmp = SW_PUSH;
+IdModule  = Switch:SW_TACT-EVQQ2Y03W;
+EndCmp
+
+BeginCmp
+TimeStamp = /554B3BE4;
+Reference = SW2;
+ValeurCmp = SW_PUSH;
+IdModule  = Switch:SW_TACT-EVQQ2Y03W;
+EndCmp
+
+BeginCmp
+TimeStamp = /551DB1DB;
+Reference = U2;
+ValeurCmp = LPC11U68JBD100;
+IdModule  = MCU:LPC11E68-TQFP-100;
+EndCmp
+
+BeginCmp
+TimeStamp = /551DB1E3;
+Reference = X1;
+ValeurCmp = 32.768KHZ;
+IdModule  = Xtal:FC-255-RTC-Xtal;
+EndCmp
+
+BeginCmp
+TimeStamp = /551F7E30;
+Reference = X2;
+ValeurCmp = 12MHz;
+IdModule  = Xtal:HC-49_S;
+EndCmp
+
+EndListe
