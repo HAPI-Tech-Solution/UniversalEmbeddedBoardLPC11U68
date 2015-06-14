@@ -1,0 +1,18 @@
+Drill report for /kicad/bitbucket/Google ドライブ/HAPI-Tech-Git/KiCad-files/LPC-LQFP100-PitchChangeBoard.kicad_pcb
+Created on 2015年06月14日日曜日 16:43:02
+Drill report for plated through holes :
+T1  0.30mm  0.012"  (136 holes)
+T2  0.70mm  0.028"  (10 holes)
+T3  1.00mm  0.039"  (3 holes)  (with 3 slots)
+T4  1.02mm  0.040"  (70 holes)
+T5  1.02mm  0.040"  (60 holes)
+
+Total plated holes count 279
+
+
+Drill report for unplated through holes :
+T1  3.17mm  0.125"  (4 holes)
+
+Total unplated holes count 4
+
+
