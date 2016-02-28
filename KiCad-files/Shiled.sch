@@ -1,4 +1,5 @@
 EESchema Schematic File Version 2
+LIBS:LPC-LQFP100-PitchChangeBoard-rescue
 LIBS:74xgxx
 LIBS:74xx
 LIBS:ac-dc
@@ -54,7 +55,6 @@ LIBS:rfcom
 LIBS:sensors
 LIBS:silabs
 LIBS:siliconi
-LIBS:special
 LIBS:stm8
 LIBS:stm32
 LIBS:supertex
